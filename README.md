@@ -1,4 +1,4 @@
 ### Hello Welcome 👋
 
- I am Lakshmanan , Software Engineer who is passionate about Mapping /location technologies. I work as Tech Lead in one of leading Ag company on developing API and web-mapping products for growers/farmers.
+I am Lakshmanan, a Software Engineer with a passion for mapping and location technologies. I currently serve as a Tech Lead at a prominent agricultural company, where I focus on developing APIs and web-mapping products tailored to the needs of growers and farmers.
 
